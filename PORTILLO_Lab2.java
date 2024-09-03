@@ -1,7 +1,7 @@
 public class CylinderApp {
     public static void main(String[] args) {
         CylinderVol cyl = new CylinderVol();
-        cyl.input(9, 18);  // Example values for radius and height
+        cyl.input(9, 18); 
         cyl.area();
         cyl.volume();
     }
